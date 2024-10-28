@@ -1,0 +1,4 @@
+- 👋 Olá, Eu sou Carlos!
+- 👩🏻‍💻 Sou UX UI e Programador Front-End, Trabalhei em agências de Marketing como Bring, Techd e Atualmente Ambipar Triciclo
+- 📚 Cursando Superior Design Grafico e Digital na FAM - O Centro Universitário das Américas
+- ⚡ Atuo na área desde 2016
